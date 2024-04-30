@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<header>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css" type="text/css"/>
+  <title>Genshin Aboba frog</title>
+    <img src="https://media.discordapp.net/attachments/924294302627139585/970027039593726042/frog.webp" width="125" draggable="false" alt="Logo">
+    <h1> Genshin Impact.</h1>
+  <nav id="menu1">
+  <ul>
+    <li><a href="Aboba_Frog_Genshin_Tao.html">Ху Тао</a></li>
+    <li><a href="Aboba_Frog_Genshin_Klee.html">Кли</a></li>
+    <li><a href="Aboba_Frog_Genshin_Zhong_li.html">Чжун Ли</a></li>
+    <li><a href="Aboba_Frog_Genshin_Baal.html">Баал</a></li>
+    <li><a href="Aboba_Frog_Genshin_Baal.html">Чунь Юнь</a></li>
+    <li><a href="index2.html">Персонажи</a>
+      <ul>
+        <li><a href="Aboba_Frog_Genshin_Xiao.html">Сяо</a></li>
+        <li><a href="Aboba_Frog_Genshin_Tao.html">Ху Тао</a></li>
+        <li><a href="Aboba_Frog_Genshin_Venti.html">Венти</a></li>
+        <li><a href="Aboba_Frog_Genshin_Yae_Miko.html">Яэ мико</a></li>
+        <li><a href="Aboba_Frog_Genshin_Zhong_li.html">Чжун Ли</a></li>
+        <li><a href="Aboba_Frog_Genshin_Baal.html">Тарталья</a></li>
+        <li><a href="Aboba_Frog_Genshin_Baal.html">Чунь Юнь</a></li>
+        <li><a href="Aboba_Frog_Genshin_Klee.html">Кли</a></li>
+        <li><a href="Aboba_Frog_Genshin_Kazuha.html">Кадзуха</a></li>
+        <li><a href="Aboba_Frog_Genshin_Baal.html">Баал</a></li>
+      </ul>
+        <li><a href="Aboba_Frog_Genshin_Venti.html">Венти</a></li>
+        <li><a href="Aboba_Frog_Genshin_Xiao.html">Сяо</a></li>
+        <li><a href="Aboba_Frog_Genshin_Yae_Miko.html">Яэ мико</a></li>
+        <li><a href="Aboba_Frog_Genshin_Kazuha.html">Кадзуха</a></li>
+    <li><a href="Aboba_Frog_Genshin_Baal.html">Тарталья</a></li>
+    </nav>
+</header>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:200,400" rel="stylesheet">
+
+<section class="hero-section">
+  <div class="card-grid">
+    <a class="card" href="#">
+      <div class="card__background" style="background-image:url(https://genshinpedia.ru/wp-content/uploads/2021/02/1614699323_6c8349cc7260ae62e3b1396831a8398f.png)"></div>
+      <div class="card__content">
+        <p class="card__category">Персонаж</p>
+        <h3 class="card__heading">Ху тао</h3>
+      </div>
+    </a>
+    <a class="card" href="#">
+      <div class="card__background" style="background-image: url(https://genshin-info.ru/upload/iblock/7f2/shougun.webp)"></div>
+      <div class="card__content">
+        <p class="card__category">Персонаж</p>
+        <h3 class="card__heading">Райден</h3>
+      </div>
+    </a>
+    <a class="card" href="#">
+      <div class="card__background" style="background-image: url(https://genshin-info.ru/upload/iblock/368/kazuha.webp)"></div>
+      <div class="card__content">
+        <p class="card__category">Персонаж</p>
+        <h3 class="card__heading">Кадзуха</h3>
+      </div>
+    </li>
+    <a class="card" href="#">
+      <div class="card__background" style="background-image: url(https://genshin-info.ru/upload/iblock/4fb/tartaglia.webp)"></div>
+      <div class="card__content">
+        <p class="card__category">Персонаж</p>
+        <h3 class="card__heading">Тарталья</h3>
+      </div>
+    </a>
+  <div>
+</section>
+
+
+
+  <div class="site">
+<main>
+<div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2021/02/1612337494_7647966b7343c29048673252e490f736.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="400" src="https://www.youtube.com/embed/U_ow8r_vuzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://i.playground.ru/e/xWgPk7xIeAMOAMKQqmItwg.jpeg?1200x1200" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Сяо </h2>
+   <figcaption>
+Сяо двояко относится к человеческой культуре. С одной стороны она его интересует, хотя адепт и не показывает это, часто называя многие её аспекты странными или бессмысленными. К людям он относится под стать. Во всем Ли Юэ существуют лишь два человека, кого Защитник Якса считает примечательными; таковыми являются хозяйка похоронного бюро Ху Тао, чье чувство юмора он находит "интересным" и капитана Южного Креста Бэй Доу, которую он уважает за силу, позволившую ей одолеть левиафана. С другой стороны годы, что Сяо провел в одиночестве, сильно сказались на его желании находиться среди людей. Он далек от них и никогда не сможет почувствовать себя с ними в одной тарелке, что заставляет Сяо рефлекторно отказываться от любых попыток вовлечь его в жизнь простого люда.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2021/02/1614699323_6c8349cc7260ae62e3b1396831a8398f.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="400" src="https://www.youtube.com/embed/X2mJItYYFEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://i.pinimg.com/736x/81/11/d8/8111d82ce51ee36c275c35dcf0139446.jpg" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Ху тао </h2>
+   <figcaption>
+Ху Тао — невысокая девушка с бледной кожей и длинными каштановыми волосами, плавно переходящими в алый цвет и собранными в два низких хвоста. Ярко красного цвета глаза имеют зрачки в виде цветов.
+Когда-то дедушка Ху Тао подарил ей шляпу - она носит ее до сих пор. Сбоку у неё веточка с цветами, а посередине - некий символ. Девушка носит чёрную куртку, застегнутую на все пуговицы, подол разделен на две части и украшен золотыми узорами. Под курткой - красная рубашка, воротник которой выглядывает наружу. Также Ху Тао носит шорты, прошитые золотом, на ногах - белые носки с красной полоской и цветочным узором, а также туфли на низком каблуке.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2020/12/1615896563_45c48cce2e2d7fbdea1afc51c7c6ad26.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="400" src="https://www.youtube.com/embed/-8PN88zP8Ng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://i.pinimg.com/736x/5e/cc/b1/5eccb1d166ef7e345c57e65cceb883e3.jpg" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Венти </h2>
+   <figcaption>
+Венти — невысокий стройный юноша со светлой кожей и бирюзовыми глазами. Его тёмно-синие, почти чёрные волосы коротко подстрижены, две пряди, обрамляющие лицо, заплетены в косички, концы которых заметно светлее — бирюзовые. Когда Венти использует магию, они светятся голубым.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://i.pinimg.com/originals/2c/6d/cb/2c6dcb31e58f51421f71ac5ca39e3131.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="400" src="https://www.youtube.com/embed/F7i69n-_CvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://a.wattpad.com/useravatar/Kykyblat.256.379066.jpg" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Кли </h2>
+   <figcaption>
+Кли - маленькая девочка, хорошо владеющая пиротехникой. Пусть раньше её не замечали, однако на жителей Мондштада и его окрестностей она произвела большое впечатление. Рэйзор считает что она крайне бездумна, и также говорит «Девочка в красном уже бы давно спалила лес, охотясь на кабана», Джинн также видит в ней просто бездумного ребёнка, который не умеет пользоваться своим талантом в создании бомб.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://genshin-info.ru/upload/iblock/1bb/yaemiko.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="400" src="https://www.youtube.com/embed/hF8mC_Ve7q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://img2.wtftime.ru/store/2022/01/04/IDTDltYs_amp_big_s.jpg" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Яэ мико </h2>
+   <figcaption>
+У Яэ нежно-пурпурные глаза. Волосы лилового цвета, переходящие со светлого на макушке до более розоватого. У неё виднеются ушки похожие на лисьи. Яэ носит особую традиционную одежду, явно вдохновлённую повседневной одеждой жриц храмов. На голове у неё золотистый аксессуар, а на ушках пара сережек с камнями пурпурного цвета.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2020/12/1619170326_a3f390d88e4c41f2747bfa2f1b5f87db.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="450" src="https://www.youtube.com/embed/725ikw9karY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://i.playground.ru/e/FX9GqkvM3g8ccqyzXRnZ8A.jpeg?1200x1200" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Чжун ли </h2>
+   <figcaption>
+Чжун Ли — спокойный, сдержанный и вежливый человек, который много знает об истории и культуре Ли Юэ. Он придерживается очень философских взглядов на деньги и с большим уважением относится к традициям Ли Юэ, в том числе к тем, которые были забыты или искажены с течением времени. Чжун Ли очень ценит контракты. Несмотря на то, что Чжун Ли обладает широким кругозором, как правило, он скромен, и даже кажется несколько неуверенным в том, что он, как он выражается, «буржуазный паразит».
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2021/05/1625472089_02e74f10e0327ad868d138f2b4fdd6f0.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="450" src="https://www.youtube.com/embed/DJDhKB0YVsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://genshin-info.ru/upload/resize_cache/iblock/09a/300_700_1d7a58ff99b324185ccb5ad5dfbdb5e85/Kiryu_Kazuha_1.jpg" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Кадзуха </h2>
+   <figcaption>
+Кадзуха живёт в странствиях, днём преодолевая путь, а ночью засыпая на земле под одеялом из неба и звёзд. Не влекут его ни богатство, ни слава. Для него важно только жить в гармонии с миром. Хоть он и часто ночует под открытым небом, будь то лето или зима, надвигающаяся непогода его вовсе не тревожит. Да и дождь с ветром словно избегают его и всегда обходят стороной.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+     <div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2021/07/1630660577_9bf31c7ff062936a96d3c8bd1f8f2ff3.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="450" src="https://www.youtube.com/embed/LF0LiiNBcWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://www.gamehelper.top/wp-content/uploads/2021/09/bild-i-gajd-na-sjogun-rajden-v-genshin-impact-min.jpg" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Райден </h2>
+   <figcaption>
+Сёгун Райдэн — взрослая девушка с длинными тёмными волосами, заплетёнными в косу. Как и у других архонтов, её волосы имеют омбре и их цвет к концу косы переводит в сиреневый. Её голову украшает золотая заколка с синими цветами и веером.
+Её светлое платье, похожее на кимоно, имеет короткую юбку, длинные фалды и длинные рукава, как у фурисодэ. Задняя пола и нижняя часть рукава расписаны узорами различных оттенков фиолетового и золотом. Среди узоров можно различить цветы, а также эмблему-символ Инадзумы.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+ <div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2021/02/1614271693_26657d5ff9020d2abefe558796b99584.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="450" src="https://www.youtube.com/embed/TpHx_bK6iCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://pbs.twimg.com/media/E7WAYmSX0AAr_-b.png" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Чунь Юнь </h2>
+   <figcaption>
+Чун Юнь — юноша хрупкого телосложения с бледной кожей, короткими голубыми волосами и светло-голубыми глазами с кошачьими зрачками. Он одет в короткие (чуть ниже колен) белые шаровары с золотистой отделкой, облегающую тёмно-синюю кофту с длинными рукавами и короткую белую куртку с капюшоном. Костюм дополняют чёрные с золотом тапочки, тёмно-синие перчатки без пальцев и ремень с золотой пряжкой, украшенный кисточкой, к которому прикреплён его Глаз бога необычной квадратной формы. Правое запястье и правая лодыжка Чун Юня забинтованы.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+           <div class="post">
+       <figure class="fig">
+   <img src="https://genshinpedia.ru/wp-content/uploads/2021/03/1615122901_ad61ab143223efbc24c7d2583be69251.png" width="400" height="400" 
+   alt="Барельеф">
+         <iframe width="600" height="450" src="https://www.youtube.com/embed/yrnZbuqF57o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img src="https://pbs.twimg.com/media/E4eyU06XIAYtSXM.jpg" width="400" height="400" 
+   alt="Барельеф">
+    <h2> Тарталья </h2>
+   <figcaption>
+У Тартальи короткие волнистые рыжие волосы и голубые глаза. Красную маску Фатуи он носит, сдвинув её на левую сторону головы. Он одет в простой серый костюм, состоящий из брюк и пиджака с асимметричной застёжкой. Пиджак застёгнут только наполовину, что позволяет видеть Глаз бога, прикреплённый к поясному ремню. Наряд Тартальи дополняют чёрные ботинки и перчатки, аксельбант с красным камнем на правом плече и прикреплённый к нему алый шарф, перекинутый за спину.
+   </figcaption>
+         <a href="Aboba_Frog_Genshin_Chyn.html">Read more</a>
+  </figure>
+    </div>
+    </div>
+</main>
+<footer>
+  <div>
+    <div>
+      <div class="footer-columns">
+        <div class="footer-column">
+          <h3>About</h3>
+          <p>
+            Привет , я создатель этого сайта - Абоба фрог, тут информация о геншине.
+          </p>
+        </div>
+        <div class="footer-column">
+          <h3>Контакты</h3>
+          <p>
+Если вы заинтересованы в работе со мной или просто хотите поздороваться, просто напишите по электронной почте.
+            <br><strong>Email:<a href="allo100717@gmail.com"> allo100717@gmail.com</strong></a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+ </footer>
+  </div>
+</html>
